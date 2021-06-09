@@ -1,0 +1,4 @@
+The degree corrected stochastic block model (DCSBM) is borrowed from the paper
+M. J. Zhao, A. R. Driscoll, S. Sengupta, N. T. Stevens, R. D. Fricker Jr, and W. W. H. Theeffect of temporal aggregation level in social network monitoring.PloS One, 13, 2018.
+The Simulation Functions.R is borrowed from their github repository. The files first simulated a DCSBM network data based on the paper. Then our method is run on the simulated data and
+the results are plotted. 
